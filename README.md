@@ -1,4 +1,4 @@
-# Iosevkafixedcurly WebFont 34.7.0
+# Iosevkafixedcurly WebFont 34.8.0
 
 ## How to use
 
